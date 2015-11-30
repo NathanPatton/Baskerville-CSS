@@ -8,7 +8,7 @@ You can view the project
 
 [Version 2 - Sans-Serif](https://NathanPatton.github.io/Baskerville-CSS/version2.html)
 
-[Version 3 - Verious](https://NathanPatton.github.io/Baskerville-CSS/version3.html)
+[Version 3 - Various](https://NathanPatton.github.io/Baskerville-CSS/version3.html)
 
 Here an example of what the finished project is suppose to look like:
 
