@@ -3,6 +3,7 @@
 We where given an task in week 10 to create 3 different styles on one portion of Baskerville text.
 
 You can view the project
+
 [Version1](https://NathanPatton.github.io/Baskerville-CSS/index.html)
 
 [Version2](https://github.com/NathanPatton/Baskerville-CSS/version2.html)
