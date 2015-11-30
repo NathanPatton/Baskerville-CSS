@@ -20,14 +20,7 @@ body {
   body p.main {
     font-size: 1.25em;
     line-height: 1.25em;
-    padding-bottom: 1em;
     line-height: 1.5em; }
-  body .dropcap {
-    float: left;
-    font-size: 5em;
-    margin-top: -0.6em;
-    margin-right: 0em;
-    margin-bottom: -0.25em; }
   body p {
     font-size: 1em;
     font-weight: 400; }
